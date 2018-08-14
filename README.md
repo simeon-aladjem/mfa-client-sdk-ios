@@ -1,19 +1,19 @@
-# Milagro Mobile SDK for iOS
+# iOS Mobile SDK for MIRACL MFA Platform 
 
-## Building the Milagro Mobile SDK for iOS
+## Building the MFA Mobile SDK for iOS
 
 ### Prerequisites
 
 1. Download and install Xcode 7.1 or higher
 2. Download or Clone the project and its submodule
 
-### Building the Milagro Mobile SDK
+### Building the MFA Mobile SDK
 
-1. Navigate to `<milagro-sdk-ios>`
+1. Navigate to `<mfa-client-sdk-ios>`
 2. Open `MPinSDK/MPinSDK.xcodeproj`
 3. Select *Product->Build* from the Xcode menu.
 
-For further details, see [Milagro Mobile SDK for iOS Documentation](http://docs.milagro.io/en/mfa/mobile-sdk-ios/milagro-mfa-mobile-sdk-developer-guide.html)
+For further details, see [MIRACL MFA Mobile SDK for iOS Documentation](https://devdocs.trust.miracl.cloud/en/mobile-sdk-instructions/ios)
 
 ## iOS SDK API for Milagro  (`MPin` class)
 
